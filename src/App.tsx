@@ -9,7 +9,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0"
           style={{
-            backgroundImage: 'url("https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&q=80")',
+            backgroundImage: 'url("https://static.wixstatic.com/media/a0773e_63e8e417e6dd4336899c215c9d1c2f90~mv2.jpg/v1/crop/x_0,y_80,w_2954,h_1823/fill/w_479,h_288,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.jpg")',
           }}
         >
           <div className="absolute inset-0 bg-black/40 backdrop-blur-sm"></div>
